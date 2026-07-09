@@ -1,35 +1,55 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=200&gradient=0:1e1e2e,50:313244,100:45475a&color=fff&text=Dmitry%20Pirogov&fontSize=44&fontAlignY=38&desc=Backend%20Developer%20%C2%B7%20Belarus&descSize=17&descAlignY=62&descAlign=50&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11111b,50:1e1e2e,100:313244&height=140&section=header&fontSize=46&fontColor=cdd6f4&text=Dmitry%20Pirogov&desc=Backend%20Developer%20%C2%B7%20Belarus&descSize=18&descAlignY=68&animation=twinkling"/>
 
 <br/>
 
-[![About](https://img.shields.io/badge/About-89B4FA?style=for-the-badge)](#-about-me)
-[![Tech Stack](https://img.shields.io/badge/Tech_Stack-89DCEB?style=for-the-badge)](#-tech-stack)
-[![Stats](https://img.shields.io/badge/Stats-FAB387?style=for-the-badge)](#-stats--analytics)
+<table>
+<tr>
+<td width="30%" align="center" valign="middle">
+
+<img src="https://github.com/Hanter1.png" width="160" alt="Dmitry Pirogov"/>
+
+</td>
+<td width="70%" align="left" valign="middle">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=900&color=89B4FA&center=false&vCenter=true&width=500&lines=Building+reliable+backend+systems;Shipping+features+end-to-end;Always+learning+something+new" alt="Typing animation"/>
+
+<br/>
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+[![About](https://img.shields.io/badge/About-89B4FA?style=flat-square)](#-about-me)
+[![Tech Stack](https://img.shields.io/badge/Tech_Stack-89DCEB?style=flat-square)](#-tech-stack)
+[![Stats](https://img.shields.io/badge/Stats-FAB387?style=flat-square)](#-stats--analytics)
+&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitry-pirogov2021/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/pirogov_01/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/PirogovDS)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Hanter1)
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitry-pirogov2021/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pirogov_01/)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PirogovDS)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hanter1)
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Hanter1&label=Profile%20views&color=cba6f7&style=for-the-badge" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Hanter1&label=Profile%20views&color=cba6f7&style=flat-square" alt="Profile views"/>
 
 </div>
+
+<br/>
+
+---
 
 <br/>
 
 ## 👨‍💻 About Me
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=89B4FA&center=true&vCenter=true&width=620&lines=Building+reliable+backend+systems;Shipping+features+end-to-end;Always+learning+something+new" alt="Typing animation"/>
-
-</div>
 
 <br/>
 

@@ -27,7 +27,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1200&color=89B4FA&center=true&vCenter=true&multiline=true&width=620&lines=Building+reliable+backend+systems;Shipping+features+end-to-end;Turning+ideas+into+working+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1200&color=89B4FA&center=true&vCenter=true&multiline=true&width=650&height=80&lines=Building+reliable+backend+systems;Shipping+features+end-to-end;Always+learning+something+new)](https://git.io/typing-svg)
 
 </div>
 
@@ -102,13 +102,13 @@ mood:     ☕ + code + learning
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hanter1&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&count_private=true" height="175" alt="GitHub stats"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hanter1&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4" height="175" alt="GitHub stats"/>
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hanter1&theme=catppuccin_mocha&hide_border=true&background=1E1E2E&ring=cba6f7&fire=89b4fa&currStreakLabel=cba6f7" height="175" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com/?user=Hanter1&theme=catppuccin_mocha&hide_border=true&background=1E1E2E&ring=cba6f7&fire=89b4fa&currStreakLabel=cba6f7" height="175" alt="GitHub streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanter1&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&langs_count=8" height="175" alt="Top languages"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Hanter1&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&langs_count=8" height="175" alt="Top languages"/>
 
 <br/><br/>
 
@@ -130,7 +130,7 @@ mood:     ☕ + code + learning
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,50:313244,100:45475a&height=110&section=footer&text=Thanks%20for%20stopping%20by!%20%E2%9C%A8&fontSize=22&fontColor=cdd6f4&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,50:313244,100:45475a&height=140&section=footer&text=Thanks%20for%20stopping%20by!%20%E2%9C%A8&fontSize=20&fontColor=cdd6f4&fontAlignY=72&animation=twinkling"/>
 
 <br/>
 

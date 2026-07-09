@@ -27,7 +27,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1200&color=89B4FA&center=true&vCenter=true&multiline=true&width=650&height=80&lines=Building+reliable+backend+systems;Shipping+features+end-to-end;Always+learning+something+new)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=89B4FA&center=true&vCenter=true&width=620&lines=Building+reliable+backend+systems;Shipping+features+end-to-end;Always+learning+something+new" alt="Typing animation"/>
 
 </div>
 
@@ -102,17 +102,17 @@ mood:     ☕ + code + learning
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hanter1&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4" height="175" alt="GitHub stats"/>
+<img src="https://github-readme-stats-swart.vercel.app/api?username=Hanter1&show_icons=true&theme=catppuccin_mocha&hide_border=true" height="175" alt="GitHub stats"/>
 &nbsp;
 <img src="https://streak-stats.demolab.com/?user=Hanter1&theme=catppuccin_mocha&hide_border=true&background=1E1E2E&ring=cba6f7&fire=89b4fa&currStreakLabel=cba6f7" height="175" alt="GitHub streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Hanter1&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&langs_count=8" height="175" alt="Top languages"/>
+<img src="https://github-readme-stats-swart.vercel.app/api/top-langs/?username=Hanter1&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=6" height="175" alt="Top languages"/>
 
 <br/><br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hanter1&theme=react-dark&hide_border=true&bg_color=1e1e2e&color=cba6f7&line=89b4fa&point=cdd6f4&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hanter1&theme=react-dark&hide_border=true&bg_color=1e1e2e&color=cba6f7&line=89b4fa&point=cdd6f4&area=true" alt="Activity graph"/>
 
 </div>
 
